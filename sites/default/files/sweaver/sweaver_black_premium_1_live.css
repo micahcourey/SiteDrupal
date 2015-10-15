@@ -1,0 +1,30 @@
+#wrap #header-wrap {
+  background-color: #09255e;
+}
+
+h2 a {
+  color: #ffffff;
+  font-family: 'Arial Black',Sans-Serif;
+  border-top-color: #e8d6e8;
+  border-right-color: #e8d6e8;
+  border-bottom-color: #e8d6e8;
+  border-left-color: #e8d6e8;
+}
+
+#wrapper #header_wrap {
+  background-color: #161136;
+}
+
+#wrapper #slideshow {
+  background-color: #161136;
+}
+
+#wrapper #page-container_wrap_bg {
+  background-color: #161136;
+}
+
+h2 .site-slogan {
+  font-family: Georgia,Serif;
+  font-weight: normal;
+}
+
